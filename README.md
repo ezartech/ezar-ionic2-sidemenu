@@ -15,3 +15,6 @@ Known issues:
 match the size of the camera view. The next update of the VideoOverlay plugin will include
 a configuration option to preclude the webview resizing. The webview resizing is typically a non-issues
 if your app runs in full-screen mode. 
+
+Tips:
+1. See modifications I made to the following files: app.components.ts, app.scss, page1.html, page1.scss
