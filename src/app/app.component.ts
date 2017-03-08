@@ -44,7 +44,7 @@ export class MyApp {
                 },
                   function(err) {
                 alert('unable to init ezar: ' + err);
-            });
+            }, {fitWebViewToCameraView: false});
         } else {
             alert('Unable to detect the ezAR plugin');
         }
