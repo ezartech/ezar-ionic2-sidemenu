@@ -32,5 +32,4 @@
   <plugin name="cordova-plugin-device" spec="1.1.4"/>
   <plugin name="cordova-plugin-splashscreen" spec="~4.0.1"/>
 
-  <plugin name="com.ezartech.ezar.videooverlay" spec="../../plugins/com.ezartech.ezar.videooverlay" />
 </widget>
