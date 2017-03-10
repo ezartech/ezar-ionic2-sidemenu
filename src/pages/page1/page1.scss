@@ -1,9 +1,12 @@
 
-page-page1 {
-
-}
 
 #ezarcontent {
    background-color: transparent;
    color: white !important;
 }
+
+/* override ionic on ios otherwise video preview will be be visible */
+.ios .ion-page.show-page ~ .nav-decor {
+    background-color: transparent;
+}
+
